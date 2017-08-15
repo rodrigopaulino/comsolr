@@ -1,7 +1,7 @@
 {
   "name": "comsolr",
   "version": "0.0.0",
-  "description": "Solr Setup Assistance for Liferay",
+  "description": "Solr Setup Assistant for Liferay",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/rodrigopaulino/comsolr#readme",
   "bin": {
     "comsolr": "./index.js"
+  },
+  "dependencies": {
+    "vorpal": "^1.12.0"
   }
 }
