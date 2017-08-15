@@ -1,10 +1,14 @@
 {
   "name": "comsolr",
   "version": "0.0.0",
-  "description": "Liferay-Solr Setup Assistant",
+  "description": "Solr Setup Assistance for Liferay",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/rodrigopaulino/comsolr.git"
   },
   "author": "Rodrigo Paulino",
   "license": "ISC"
