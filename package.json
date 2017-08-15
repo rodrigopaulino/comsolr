@@ -1,0 +1,11 @@
+{
+  "name": "comsolr",
+  "version": "0.0.0",
+  "description": "Liferay-Solr Setup Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Paulino",
+  "license": "ISC"
+}
