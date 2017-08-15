@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rodrigopaulino/comsolr#readme",
   "bin": {
-    "po": "./index.js"
+    "comsolr": "./index.js"
   }
 }
