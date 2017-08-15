@@ -4,7 +4,7 @@ const vorpal = require("vorpal")();
 
 vorpal
 	.command("in")
-	.description("Put it into your bundle.")
+	.description("Insert it into your bundle.")
 	.action(
 		(args, callback) => {
 
