@@ -11,5 +11,12 @@
     "url": "git@github.com/rodrigopaulino/comsolr.git"
   },
   "author": "Rodrigo Paulino",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigopaulino/comsolr/issues"
+  },
+  "homepage": "https://github.com/rodrigopaulino/comsolr#readme",
+  "bin": {
+    "po": "./index.js"
+  }
 }
